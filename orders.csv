@@ -1,0 +1,51 @@
+order_id,customer_id,order_date,status,payment_type
+1,3,2023-02-16,Cancelled,UPI
+2,10,2023-03-23,Completed,UPI
+3,13,2023-10-12,Returned,COD
+4,12,2023-06-16,Returned,Credit Card
+5,7,2023-10-01,Cancelled,COD
+6,3,2023-06-25,Cancelled,COD
+7,8,2023-06-17,Returned,Credit Card
+8,9,2024-07-24,Completed,COD
+9,11,2023-02-27,Completed,UPI
+10,11,2024-02-15,Returned,UPI
+11,7,2024-08-03,Cancelled,Credit Card
+12,7,2024-05-26,Returned,COD
+13,15,2023-05-27,Returned,UPI
+14,8,2024-07-28,Cancelled,Credit Card
+15,19,2024-03-14,Cancelled,Credit Card
+16,12,2023-08-13,Completed,COD
+17,16,2023-04-04,Completed,UPI
+18,5,2023-06-13,Cancelled,Credit Card
+19,20,2023-03-07,Returned,Credit Card
+20,20,2024-04-24,Cancelled,Credit Card
+21,18,2023-01-12,Cancelled,COD
+22,4,2024-07-03,Returned,COD
+23,11,2023-04-25,Returned,Credit Card
+24,6,2024-04-09,Completed,COD
+25,9,2024-05-27,Completed,COD
+26,4,2023-11-02,Cancelled,COD
+27,20,2023-07-23,Completed,Credit Card
+28,6,2024-07-06,Cancelled,UPI
+29,20,2023-11-28,Returned,UPI
+30,4,2024-01-07,Returned,UPI
+31,2,2023-09-04,Cancelled,UPI
+32,3,2024-05-12,Completed,COD
+33,5,2023-05-12,Cancelled,Credit Card
+34,18,2023-06-19,Returned,COD
+35,20,2024-03-09,Completed,COD
+36,7,2023-11-16,Returned,COD
+37,12,2024-03-24,Cancelled,Credit Card
+38,4,2023-09-11,Completed,UPI
+39,11,2023-01-22,Cancelled,COD
+40,8,2023-08-14,Completed,UPI
+41,2,2023-08-23,Completed,UPI
+42,11,2023-03-14,Cancelled,UPI
+43,9,2024-05-12,Completed,COD
+44,5,2024-08-07,Cancelled,Credit Card
+45,8,2024-04-29,Returned,UPI
+46,4,2023-04-10,Cancelled,Credit Card
+47,12,2024-03-09,Returned,Credit Card
+48,2,2023-04-11,Completed,Credit Card
+49,11,2023-04-22,Completed,UPI
+50,7,2024-07-03,Returned,UPI

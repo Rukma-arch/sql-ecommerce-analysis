@@ -1,0 +1,10 @@
+product_id,category,sub_category,cost_price,selling_price
+1,Electronics,Mobile,1235,1787
+2,Electronics,Laptop,1736,2206
+3,Electronics,Tablet,588,1535
+4,Clothing,Shirt,1440,2189
+5,Clothing,Jeans,755,1342
+6,Clothing,Shoes,661,1426
+7,Home,Furniture,1100,1943
+8,Home,Kitchen,1766,2336
+9,Home,Decor,1682,2078
